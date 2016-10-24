@@ -38,8 +38,9 @@ from yowsup.layers.protocol_profiles.protocolentities    import *
 from yowsup.common.tools import ModuleTools
 from urllib3.connectionpool import HTTPConnectionPool
 
-APP_ID = "63e54f72"
-APP_KEY = "4a72fce75ee83407bdcc08cb42a554d8"
+#GoIBIBO's api ID and key
+APP_ID = ""
+APP_KEY = ""
 
 previous_flight = ""
 previous_bus = ""
@@ -51,7 +52,9 @@ latitude = ""
 longitude = ""
 nums = 0
 message_sender = ""
-customer_receiver = "917353659758"
+
+# add customer number
+customer_receiver = ""
 save_user = ""
 customer = ""
 group_ind = 1
