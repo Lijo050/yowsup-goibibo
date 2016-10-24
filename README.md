@@ -28,8 +28,6 @@ if login fails, please retry
 
 
 ## At client side
- - save 918867447835 in contacts
- - add this number to any WhatsApp group
  - user can perfom these possible queries in WhatsApp
     - @help - for welcome screen
     - @bus - for bus related queries
